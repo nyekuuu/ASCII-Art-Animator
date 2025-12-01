@@ -11,7 +11,7 @@ There are two variations of this project:
 1. Fully fledged easy to use accurate website that generates ascii art using an image/video file or animations using a horizontal/vertical frame by frame spritesheet.
     - <b>Demo: https://media.nyeku.xyz/ascii</b>
 
-2. Basic use version intended for embeding on any website. (Video conversion comming soon)
+2. Basic use version intended for <b> embeding on any website. </b> (Video conversion comming soon)
     - <b>Demo: https://media.nyeku.xyz</b> _epilepsy warning._
 
 ## Installation:
