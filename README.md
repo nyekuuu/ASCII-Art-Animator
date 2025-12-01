@@ -67,7 +67,6 @@ This guide will focus on setting up Option 2
 > The ascii image quality is dependant on source image quality. To resize you can put the pre tag in a div/container.
 
 ## Option 1 Screenshots 
-<img width="1778" height="954" alt="image" src="https://github.com/user-attachments/assets/7568a8e4-24c2-4d99-b2c3-611d8efe5ec5" />
 <img width="1776" height="955" alt="image" src="https://github.com/user-attachments/assets/630d9cd2-9442-4ee9-bd7f-7341a09f54be" />
 
 
