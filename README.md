@@ -21,7 +21,6 @@ This guide will focus on setting up Option 2
 
 - Within you html file embed this code:
   ```html
-  <html>
     <head>
       <style>
         body{background-color:black;} /* optional */
@@ -39,7 +38,6 @@ This guide will focus on setting up Option 2
       
     <script src="./ascii.js"></script>
   
-  </html>
   ```
 - Move the `ascii.js` file into your site root
 - Generate a sprite sheet, this can be done from a gif on an online converter such as https://ezgif.com/gif-to-sprite . I suggest keeping the resolution something such as 50x50, 100x100, etc per tile and keep it set to `stack horizontal`.
